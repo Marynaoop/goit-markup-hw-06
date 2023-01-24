@@ -439,7 +439,7 @@ img {
   background-color: transparent;
   outline: none;
   padding-left: 16px;
-  color: #e7e9fc;
+  color: var(--paragraph-color);
 }
 .online-input::placeholder {
   font-weight: 400;
